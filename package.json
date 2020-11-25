@@ -1,0 +1,11 @@
+{
+  "name": "chatapp-master",
+  "version": "1.0.0",
+  "description": "A simple, pure JavaScript chat app built using WebRTC and [Okta](https://developer.okta.com/).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
